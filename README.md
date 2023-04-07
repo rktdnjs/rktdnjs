@@ -1,8 +1,8 @@
-### 안녕하세요😊👋 프론트엔드 꿈나무 개발자입니다 :) 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontColor=ffffff&desc=rktdnjs'%20GitHub%20Profile&fontSize=90&descAlignY=40&descAlign=75)
 
 ---
+
+### 안녕하세요😊👋 프론트엔드 꿈나무 개발자입니다 :) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frktdnjs&count_bg=%2375A0F4&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
