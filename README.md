@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontColor=ffffff&desc=rktdnjs'%20GitHub%20Profile&fontSize=90&descAlignY=40&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontColor=ffffff&desc=rktdnjs'%20GitHub%20Profile&fontSize=90&descAlignY=38&descAlign=75)
 
 ---
 
