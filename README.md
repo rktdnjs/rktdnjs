@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요😊👋 프론트엔드 꿈나무 개발자입니다 :)
+
+---
+
+![rktdnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rktdnjs&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rktdnjs&layout=compact&theme=tokyonight&langs_count=5)
 
 <!--
 **rktdnjs/rktdnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
