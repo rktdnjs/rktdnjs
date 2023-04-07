@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontColor=ffffff&desc=rktdnjs'%20GitHub%20Profile&fontSize=90&descAlignY=38&descAlign=75)
 
 ---
@@ -10,6 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rktdnjs&layout=compact&theme=tokyonight&langs_count=5)
 
+ </div>
 <!--
 **rktdnjs/rktdnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
