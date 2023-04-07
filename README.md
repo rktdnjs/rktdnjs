@@ -2,9 +2,9 @@
 
 ---
 
-### 안녕하세요😊👋 프론트엔드 꿈나무 개발자입니다 :) 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frktdnjs&count_bg=%2375A0F4&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={rktdnjs})](https://solved.ac/{rktdnjs})
 
 ![rktdnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rktdnjs&show_icons=true&theme=tokyonight)
 
