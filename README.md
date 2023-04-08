@@ -37,9 +37,9 @@
      <img src="https://img.shields.io/badge/ReactNative-0000FF?style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/Cloudflare Pages-F38020?style=flat&logo=cloudflarepages&logoColor=white"> 
  </p>
- <p>
+<!--  <p>
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black"> 
- </p>
+ </p> -->
  <p>
      <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> 
      <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
