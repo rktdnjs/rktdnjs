@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontColor=ffffff&desc=rktdnjs'%20GitHub%20Profile&fontSize=90&descAlignY=38&descAlign=75)
 
----
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frktdnjs&count_bg=%235DEBFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -13,6 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rktdnjs&layout=compact&theme=tokyonight&langs_count=5)
 
  </div>
+ 
 <!--
 **rktdnjs/rktdnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
