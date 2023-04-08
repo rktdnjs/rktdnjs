@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
  </a>
  <a href="https://blog.naver.com/rktdnjs">
-    <img src="https://img.shields.io/badge/velog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
  </a>
  <a href="https://velog.io/@rktdnjs/about">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
