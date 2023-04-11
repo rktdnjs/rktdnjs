@@ -7,9 +7,9 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rktdnjs)](https://solved.ac/rktdnjs)
 
-![rktdnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rktdnjs&show_icons=true&theme=tokyonight)
+![rktdnjs's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rktdnjs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rktdnjs&layout=compact&theme=tokyonight&langs_count=5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rktdnjs&layout=compact&theme=tokyonight&langs_count=5)
 
  ## 💻 About Me 💻
  <a href="https://bronzed-amount-986.notion.site/53462ca81b5f439fa9066841477c2b4c">
