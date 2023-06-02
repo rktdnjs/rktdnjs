@@ -6,6 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frktdnjs&count_bg=%235DEBFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rktdnjs)](https://solved.ac/rktdnjs)
+  
+<!-- <a target="_blank" href="https://solved.ac/profile/rktdnjs"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=rktdnjs"> -->
 
 ![rktdnjs's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rktdnjs&show_icons=true&theme=tokyonight)
 
