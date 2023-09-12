@@ -29,7 +29,6 @@
      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> 
      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white">
  </p>
  <p>
      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -37,7 +36,6 @@
      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"> 
      <img src="https://img.shields.io/badge/ReactNative-0000FF?style=flat&logo=react&logoColor=white">
-     <img src="https://img.shields.io/badge/Cloudflare Pages-F38020?style=flat&logo=cloudflarepages&logoColor=white"> 
  </p>
 <!--  <p>
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black"> 
